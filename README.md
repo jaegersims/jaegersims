@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jaegersims
 - 👀 I’m interested in Coding, Sports (Rugby, Swimming) 
 - 🌱 I’m currently learning Different Coding Languages (C++, JS, HTML, CSS)
-- 📫 How to reach me email:jaeger.sims@geraldinehs.school.nz
+- 📫 How to reach me email: jaeger.sims@geraldinehs.school.nz
